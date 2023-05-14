@@ -58,6 +58,11 @@
 
 
 
+#define Encoder_A_Pin 1
+#define Encoder_B_Pin 2
+
+
+
 void Encoder_loop(int *v) {
 
 	// int A2 = HAL_GPIO_ReadPin(Encoder_A_GPIO_Port, Encoder_A_Pin);
