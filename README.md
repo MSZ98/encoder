@@ -1,7 +1,7 @@
 # encoder
+Just one universal, well optimized function that interfaces incremental encoder.
 
-
-## Example UNO code, to send encoder value 'a' every 20ms
+## Example Arduino UNO code, to print encoder value 'a' every 20ms
 ```
 #define Encoder_A_Pin 2
 #define Encoder_B_Pin 3
